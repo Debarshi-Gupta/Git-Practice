@@ -1,4 +1,4 @@
-get SystemUser(String key)
+get SystemUser()
 {
-    
+    System.out.println("Dog");
 }
